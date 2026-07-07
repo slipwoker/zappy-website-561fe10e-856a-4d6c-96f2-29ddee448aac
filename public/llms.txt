@@ -7,85 +7,85 @@
 ## Pages
 
 ### בית
-https://-561fe10e.zappy5.app
+https://example.com
 מערכת יצירת לידים מתקדמת שמזרימה אליך לקוחות פוטנציאליים לנדל״ן. הפוך מבקרים ללידים איכותיים במהירות ובדיוק. התחל להגדיל את העסק שלך עוד היום!
 
 ### שירותים
-https://-561fe10e.zappy5.app/services
+https://example.com/services
 גלה שירותי יצירת לידים מותאמים אישית לעסקים קטנים. אנחנו לוכדים מידע מדויק מלקוחות פוטנציאליים והופכים כל ביקור להזדמנות אמיתית. בדוק את הפתרונות שלנו עכשיו!
 
 ### אודות
-https://-561fe10e.zappy5.app/about
+https://example.com/about
 הכירו את הצוות שמאחורי לידבוקס, מומחים בלכידת לידים איכותיים. אנחנו מביאים ניסיון, תשוקה וחדשנות כדי להפוך את עסק הנדל״ן שלך למצליח יותר. בואו לשמוע מי אנחנו!
 
 ### שאלות נפוצות
-https://-561fe10e.zappy5.app/faq
+https://example.com/faq
 תשובות מהירות לשאלות נפוצות על יצירת לידים, התאמה לנדל״ן, תמחור ותהליך העבודה. קבל את כל המידע שצריך כדי להתחיל להמיר מבקרים ללקוחות בקלות!
 
 ### צור קשר
-https://-561fe10e.zappy5.app/contact
+https://example.com/contact
 צור קשר עם לידבוקס עוד היום וקבל ייעוץ חינם ליצירת לידים מנצחת. המומחים שלנו מוכנים לעזור לך להפוך כל גולש ללקוח פוטנציאלי. אל תחכה, פנה אלינו עכשיו!
 
 ### Cart
-https://-561fe10e.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-561fe10e.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-561fe10e.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-561fe10e.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-561fe10e.zappy5.app/order-success
+https://example.com/order-success
 תודה שנרשמת לקורס
 
 ### תודה רבה
-https://-561fe10e.zappy5.app/thank-you
+https://example.com/thank-you
 לידבוקס - תודה רבה
 
 ### Courses
-https://-561fe10e.zappy5.app/courses
+https://example.com/courses
 Browse all available courses.
 
 ### Course Category
-https://-561fe10e.zappy5.app/category/:slug
+https://example.com/category/:slug
 Browse courses in this category.
 
 ### Course Detail
-https://-561fe10e.zappy5.app/courses/:slug
+https://example.com/courses/:slug
 Course details and curriculum.
 
 ### Lesson
-https://-561fe10e.zappy5.app/lesson/:lessonId
+https://example.com/lesson/:lessonId
 Lesson player.
 
 ### My Learning
-https://-561fe10e.zappy5.app/my-learning
+https://example.com/my-learning
 Your enrolled courses and progress.
 
 ### Certificate
-https://-561fe10e.zappy5.app/certificate/:code
+https://example.com/certificate/:code
 Verify a course completion certificate.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-561fe10e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-561fe10e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-561fe10e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -113,8 +113,8 @@ Lead Generation
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-561fe10e.zappy5.app/sitemap.xml
-- Robots: https://-561fe10e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-561fe10e.zappy5.app/llms-full.txt
-- Products (JSON): https://-561fe10e.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-561fe10e.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
