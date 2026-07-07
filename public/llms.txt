@@ -1,0 +1,120 @@
+# לידבוקס — Generative Engine Optimization Map
+
+> A lead generation business focused on capturing potential customer information through a dedicated landing page. The business aims to convert visitors into leads efficiently.
+
+---
+
+## Pages
+
+### בית
+https://-561fe10e.zappy5.app
+מערכת יצירת לידים מתקדמת שמזרימה אליך לקוחות פוטנציאליים לנדל״ן. הפוך מבקרים ללידים איכותיים במהירות ובדיוק. התחל להגדיל את העסק שלך עוד היום!
+
+### שירותים
+https://-561fe10e.zappy5.app/services
+גלה שירותי יצירת לידים מותאמים אישית לעסקים קטנים. אנחנו לוכדים מידע מדויק מלקוחות פוטנציאליים והופכים כל ביקור להזדמנות אמיתית. בדוק את הפתרונות שלנו עכשיו!
+
+### אודות
+https://-561fe10e.zappy5.app/about
+הכירו את הצוות שמאחורי לידבוקס, מומחים בלכידת לידים איכותיים. אנחנו מביאים ניסיון, תשוקה וחדשנות כדי להפוך את עסק הנדל״ן שלך למצליח יותר. בואו לשמוע מי אנחנו!
+
+### שאלות נפוצות
+https://-561fe10e.zappy5.app/faq
+תשובות מהירות לשאלות נפוצות על יצירת לידים, התאמה לנדל״ן, תמחור ותהליך העבודה. קבל את כל המידע שצריך כדי להתחיל להמיר מבקרים ללקוחות בקלות!
+
+### צור קשר
+https://-561fe10e.zappy5.app/contact
+צור קשר עם לידבוקס עוד היום וקבל ייעוץ חינם ליצירת לידים מנצחת. המומחים שלנו מוכנים לעזור לך להפוך כל גולש ללקוח פוטנציאלי. אל תחכה, פנה אלינו עכשיו!
+
+### Cart
+https://-561fe10e.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-561fe10e.zappy5.app/checkout
+תשלום
+
+### Login
+https://-561fe10e.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-561fe10e.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-561fe10e.zappy5.app/order-success
+תודה שנרשמת לקורס
+
+### תודה רבה
+https://-561fe10e.zappy5.app/thank-you
+לידבוקס - תודה רבה
+
+### Courses
+https://-561fe10e.zappy5.app/courses
+Browse all available courses.
+
+### Course Category
+https://-561fe10e.zappy5.app/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://-561fe10e.zappy5.app/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://-561fe10e.zappy5.app/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://-561fe10e.zappy5.app/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://-561fe10e.zappy5.app/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-561fe10e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-561fe10e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-561fe10e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About לידבוקס
+A lead generation business focused on capturing potential customer information through a dedicated landing page. The business aims to convert visitors into leads efficiently.
+
+## Target Audience
+- חברות טכנולוגיה B2B
+- סוכני נדל"ן
+- בעלי סטודיו לכושר
+
+## Industry
+Lead Generation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-561fe10e.zappy5.app/sitemap.xml
+- Robots: https://-561fe10e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-561fe10e.zappy5.app/llms-full.txt
+- Products (JSON): https://-561fe10e.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-561fe10e.zappy5.app/product-feed.xml
